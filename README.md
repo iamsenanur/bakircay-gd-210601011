@@ -1,1 +1,1 @@
-# oyun linki : https://play.unity.com/en/games/fa17f8f9-839b-4d25-b180-1890646ea1a4/webgl-builds
+# oyun linki : https://play.unity.com/en/games/25ee7669-114e-4ea5-8e7d-d0b76c4e0289/webgl-builds
